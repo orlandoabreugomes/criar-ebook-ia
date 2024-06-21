@@ -4,7 +4,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades de ferramentas de IA. Os prompts utilzados seguem abaixo.
 
-📒[Clique aqui para ler o Ebook produzido.]()
+📒[Clique aqui para ler o Ebook produzido.](https://github.com/orlandoabreugomes/criar-ebook-ia/blob/main/outcome/Do%20Bits%20aos%20Qubits%20Uma%20Jornada%20de%20Descoberta%20da%20Computa%C3%A7%C3%A3o%20Qu%C3%A2ntica.pdf)
 
 ## 🖥️ Tecnologias utilizadas no Projeto:
 
@@ -26,9 +26,9 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades de ferrament
 |-----------------|--------------------|
 | Imagem da capa | Generate a detailed illustration of two quantum qubits in a lab setting |
 
-## ✨ Características
-* Conteúdo gerado via chatgpt
-* Imagem da capa gerada via Crayon
+## ✨ Material
+* Imagem da capa gerada em [image](https://github.com/orlandoabreugomes/criar-ebook-ia/tree/main/image)
+* Ebook em [outcome](https://github.com/orlandoabreugomes/criar-ebook-ia/tree/main/outcome)
 
 ## 🔧 Instruções de Execução
 Utilize os prompts acima nas ferramentas sugeridas para gerar a imagem da capa e o conteúdo. Para editar o material, use o PowerPoint ou LibreOffice.
@@ -36,5 +36,3 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar a imagem da capa e
 ## 🙍🏽 Profissional
 Orlando Gomes
 [GitHub](https://github.com/orlandoabreugomes) | [Linkedin](https://www.linkedin.com/in/orlandoabreugomes/) | [e-mail](mailto:gomes.oa@gmail.com)
-
-
